@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HareKrishna</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mahamantra">Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare</string>
+</resources>
